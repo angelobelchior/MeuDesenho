@@ -1,7 +1,7 @@
 # Meu Desenho 
 
 ## O que é
-"Meu Desenho" é uma aplicação UWP que utiliza AI para fazer reconhecimento de desenhos.
+**Meu Desenho** é uma aplicação UWP que utiliza AI para fazer reconhecimento de desenhos.
 A aplicação tem uma tela onde você pode fazer um desenho utilizando o mouse ou uma caneta e pedir para o sistema tentar reconhecer.
 Esse reconhecimento é feito utilizando um modelo criado no [Azure Custom Vision](https://www.customvision.ai/).
 
