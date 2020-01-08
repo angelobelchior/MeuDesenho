@@ -1,5 +1,7 @@
 # Meu Desenho 
 
+[![Build status](https://github.com/angelobelchior/MeuDesenho/workflows/MeuDesenho/badge.svg)](https://github.com/angelobelchior/MeuDesenho/workflows/MeuDesenho/badge.svg)
+
 ## O que é
 **Meu Desenho** é uma aplicação UWP que utiliza AI para fazer reconhecimento de desenhos.
 A aplicação tem uma tela onde você pode fazer um desenho utilizando o mouse ou uma caneta e pedir para o sistema tentar reconhecer.
